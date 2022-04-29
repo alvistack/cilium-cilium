@@ -1,0 +1,5 @@
+cilium: copyright-without-copyright-notice
+cilium: initial-upload-closes-no-bugs
+cilium: no-manual-page
+cilium: statically-linked-binary
+cilium: zero-byte-file-in-doc-directory

@@ -102,3 +102,5 @@ GIT_VERSION
 
 # Generated dockerignore files
 images/*/Dockerfile.dockerignore
+
+bin
